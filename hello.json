@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "hello-mcp": {
+      "command": "uv",
+      "args": [
+        "run",
+        "C:\\SrinivasMuppu\\GenerativeAI\\Practivals\\hello_mcp\\.venv\\Scripts\\python.exe",
+        "C:\\SrinivasMuppu\\GenerativeAI\\Practivals\\hello_mcp\\hello.py"
+      ],
+      "cwd": "C:\\SrinivasMuppu\\GenerativeAI\\Practivals\\hello_mcp"      
+    }
+  }
+}
