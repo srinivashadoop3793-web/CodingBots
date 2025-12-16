@@ -9,7 +9,7 @@ uv init .
 uv sync
 
 Activate the virtual environment
-windows:   .venv\Scripts\activate
+windows:  .venv\Scripts\activate
 
 Launch vscode
 code .
