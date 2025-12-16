@@ -2,7 +2,7 @@
 Let build our First MCP Server
 
 mkdir hello_mcp
-cd hello_mcp
+cd  hello_mcp
 
 Lets initialize the project
 uv init .
