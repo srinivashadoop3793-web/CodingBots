@@ -30,6 +30,8 @@ code .
 Add dependencies
 uv add "mcp[cli]" httpx
 
+uv run hello.py
+
 **Now lets create a file called hello.py**
 
 from mcp.server.fastmcp import FastMCP
@@ -58,3 +60,5 @@ if __name__ == "__main__":
     }
   }
 }
+
+* [Refere](https://github.com/srinivashadoop3793-web/CodingBots/blob/main/Images/agentic1.md) for  changes
